@@ -5,3 +5,4 @@
 
 # Povezave
 - [Osnutek](osnutek.md)
+- [Google Drive folder](https://drive.google.com/drive/folders/1vcHoJ-GEajEp0izntpg250MWi18bjNda?usp=sharing)

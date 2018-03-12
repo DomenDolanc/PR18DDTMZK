@@ -22,7 +22,7 @@ Zajemajo podatke o filmih, ključnih besedah, igralcih in preostankom ekipe.
 
 Atribut | Tip | Opis
 -------- | -------- | --------
-id  | Numeric | Identifikator
+id  | Numeric | Identifikacijski atribut
 adult  |  Boolean | ?
 belongs_to_collection   | String | Pripadajoča kolekcija
 budget  | Numeric | Proračun namenjen izdelavi filma
@@ -44,13 +44,21 @@ video   | Boolean |
 vote_average    | Numeric | Povprečje ocen
 vote_count  | Numeric | Število ocen/glasov?
 
-Atribut | Tip | Opis
--------- | -------- | --------
-id | Numeric
-cast | String
-crew | String
+
+### Sodelujoči
+-   `credits.csv` vsebuje podatke o igralci in preostali ekipi:
 
 Atribut | Tip | Opis
 -------- | -------- | --------
-id |Numeric |
-keywords |String |
+id | Numeric | Identifikacijski atribut
+cast | String | Seznam igralcev
+crew | String | Seznam ljudi v ekipi
+
+
+### Ključne besede
+-   `credits.csv` vsebuje podatke o ključnih besedah za določen film:
+
+Atribut | Tip | Opis
+-------- | -------- | --------
+id | Numeric | Identifikacijski atribut
+keywords |String | Ključne besede

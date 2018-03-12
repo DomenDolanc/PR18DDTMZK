@@ -15,8 +15,8 @@ V sklopu naše raziskave bomo naredili aplikacijo, ki bo poizkušala napovedovat
 
 
 # 3. Podatki
-Viri podatkov: [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset/data) .Podatki so v formatu CSV.
-Zajemajo podatke o filmih, ključnih besedah, igralcih in preostankom ekipe.
+Viri podatkov: [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset/data). Podatki so v  datoteki formata CSV.
+Zajemajo podatke o filmih, ključnih besedah, igralcih in ekipi.
 
 
 
@@ -47,33 +47,6 @@ title   | String | Naslov
 vote_average    | Numeric | Povprečje ocen
 vote_count  | Numeric | Število ocen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,
 
 
 ### Sodelujoči

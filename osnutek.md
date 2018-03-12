@@ -1,3 +1,8 @@
+# Sodelujoči
+- [Domen Dolanc](https://github.com/DomenDolanc)
+- [Tomaž Martinčič](https://github.com/tm1897)
+- [Žiga Klopčič](https://github.com/klopcic)
+
 # 1. Uvod
 Področje naše raziskave so filmi. Zanima nas njihova uspešnost glede na igralce, režiserja, proračun in druge dejavnike.
 

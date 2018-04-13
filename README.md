@@ -8,7 +8,8 @@
 - [Google Drive folder](https://drive.google.com/drive/folders/1vcHoJ-GEajEp0izntpg250MWi18bjNda?usp=sharing)
 
 
-
+------------------
+#### Uporabljene knjižnice
 
 - Orange
 - collections
@@ -16,9 +17,7 @@
 - numpy
 - json
 - pandas
-- matplotlib.ticker
-- dateutil.parser
-- matplotlib.legend_handler
+- dateutil
 
 Na spodnji sliki je prikazana korelacija med prihodkom in številom ocen.
 

@@ -9,6 +9,18 @@
 
 
 ------------------
+
+# Cilj raziskave
+Analiza filmov in napovedovanje njihove uspešnosti.
+Vizualno bomo predstavili rezultate naše raziskave v kateri bomo odgovorili na spodnja vprašanja:
+
+- Kakšen je vpliv ekipe filma na njegovo uspešnost?
+- Kaj vse vpliva na uspešnost filma?
+- Analiza vložka in dobička glede na žanr.
+- Analiza vložka in dobička glede na čas.
+
+V sklopu naše raziskave bomo naredili aplikacijo, ki bo poizkušala napovedovati uspešnost filma.
+
 #### Uporabljene knjižnice
 
 - Orange

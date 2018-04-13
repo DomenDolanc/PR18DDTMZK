@@ -19,7 +19,7 @@ Vizualno bomo predstavili rezultate naše raziskave v kateri bomo odgovorili na 
 - Analiza vložka in dobička glede na žanr.
 - Analiza vložka in dobička glede na čas.
 
-V sklopu naše raziskave bomo naredili aplikacijo, ki bo poizkušala napovedovati uspešnost filma.
+V sklopu naše raziskave bomo naredili aplikacijo, ki bo poizkušala napovedovati uspešnost filma. Pripravili bomo tudi animacijo, ki bo prikazovala popularnost žanrov na zemljevidu skozi čas.
 
 #### Uporabljene knjižnice
 

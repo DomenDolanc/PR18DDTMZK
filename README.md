@@ -51,3 +51,6 @@ Spodnja slika prikazuje število filmov prikazanega žanra skozi leta.
 Spodnji sliki prikazujeta vsoto in povprečje prihodkov skozi čas.
 
 ![png](readme_images/output_10_0.png)
+
+MAP:
+![gif](readme_images/map.gif)

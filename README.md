@@ -52,5 +52,9 @@ Spodnji sliki prikazujeta vsoto in povprečje prihodkov skozi čas.
 
 ![png](readme_images/output_10_0.png)
 
-MAP:
+Zemljevid, ki prikazuje njabolj snemane žanre v državi za vsako leto:
 ![gif](readme_images/map.gif)
+Druge hitrosti:
+
+- [0.2s zamik](readme_images/map-0.2s-delay.gif)
+- [2s zamik](readme_images/map-2s-delay.gif)
